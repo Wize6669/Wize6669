@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Zapata</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
-<p align="justify"> I am a Software Engineering who is passionate about knowledge and exploring new horizons. My areas of interest are in Artificial Intelligence, software development and the Internet of Things (IoT). In addition to my studies, I enjoy traveling to broaden my horizons and learn from different cultures and perspectives.</p>
+<p align="justify"> I am a Software Engineering who is passionate about knowledge and exploring new horizons. My areas of interest are in Artificial Intelligence, software development and the Internet of Things (IoT). In addition to coding and learning, I enjoy traveling to broaden my horizons and learn from different cultures and perspectives.</p>
 
 🌱 I’m currently learning **Alexa skills, React, TypeScript**
 
